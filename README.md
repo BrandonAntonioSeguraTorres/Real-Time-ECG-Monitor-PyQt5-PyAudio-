@@ -76,7 +76,7 @@ It is **not a certified medical device** and should not be used for clinical dia
 
 ## 👨‍🔬 Author
 
-Developed by **Antonio Van Gritte**
+Developed by **Brnadon Antonio Segura Torres**
 📧 [antoniovangritte@gmail.com](mailto:antoniovangritte@gmail.com)
 
 ---
